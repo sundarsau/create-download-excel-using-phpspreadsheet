@@ -1,5 +1,5 @@
 # create-download-excel-using-phpspreadsheet
- Create and Download Excel file using PhpSpreadsheet. Install PhpSpreadsheet and use simple PHP code to create and download Excel file with the data from MySQL database.
+ Create and Download Excel files using PhpSpreadsheet. Install PhpSpreadsheet and use simple PHP code to create and download Excel file with the data from MySQL database. Visit my website – https://codehow2.com
 
 1) Download the repository from https://github.com/sundarsau/create-download-excel-using-phpspreadsheet
 2) Extract all the files in a folder under xampp/htdocs
