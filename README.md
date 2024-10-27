@@ -6,6 +6,6 @@
 3) Create a folder named "output" under the same folder
 4) Run the command: composer require phpoffice/phpspreadsheet from the project folder. It will install PHPSpreadsheet.
 5) Import users.sql in "test" database using PhpMyAdmin
-6) Run localhost/<project folder> in the browser. <project folder> is the folder name under xampp/htdocs where you extracted all the source code.
+6) Run localhost/(folder name) in the browser. (folder name) is the project folder under  xampp/htdocs where you extracted all the source code.
 # License
 This is an MIT license, you can modify the code according to your requirements
